@@ -20,7 +20,6 @@ function App() {
         <h2>Hello I am Shivani</h2>
         <p>Hye </p>
         <p>Hello ji, kya haal chaal</p>
-        <p>Another Commit</p>
       </header>
     </div>
   );
